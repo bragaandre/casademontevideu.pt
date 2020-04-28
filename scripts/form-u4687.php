@@ -28,7 +28,7 @@ $form = array(
 	),
 	'email' => array(
 		'from' => 'eventos@casademontevideu.pt',
-		'to' => 'eventos@casademontevideu.pt'git
+		'to' => 'eventos@casademontevideu.pt'
 	),
 	'fields' => array(
 		'custom_U4692' => array(
