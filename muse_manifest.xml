@@ -1,0 +1,986 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.casademontevideu.pt" resolutions="1x" timestamp="1582214537344">
+  <folder name="css">
+    <file name="site_global.css" crc="3838235161"/>
+    <file name="mensagem-contactos.css" crc="255113371" ref="mensagem-contactos"/>
+    <file name="nomq_mensagem-contactos.css" crc="79093660" ref="mensagem-contactos"/>
+    <file name="galeria.css" crc="3837062462" ref="galeria"/>
+    <file name="nomq_galeria.css" crc="412244101" ref="galeria"/>
+    <file name="galeria-casamentos.css" crc="250142903" ref="galeria-casamentos"/>
+    <file name="nomq_galeria-casamentos.css" crc="3849397245" ref="galeria-casamentos"/>
+    <file name="casamentos.css" crc="3764794261" ref="casamentos"/>
+    <file name="nomq_casamentos.css" crc="63911460" ref="casamentos"/>
+    <file name="mensagem-casamentos.css" crc="504395355" ref="mensagem-casamentos"/>
+    <file name="nomq_mensagem-casamentos.css" crc="56967191" ref="mensagem-casamentos"/>
+    <file name="contact-form-eventos.css" crc="441003397" ref="contact-form-eventos"/>
+    <file name="nomq_contact-form-eventos.css" crc="258539411" ref="contact-form-eventos"/>
+    <file name="index.css" crc="510141570" ref="index"/>
+    <file name="nomq_index.css" crc="4101383184" ref="index"/>
+    <file name="contactos.css" crc="4210597536" ref="contactos"/>
+    <file name="nomq_contactos.css" crc="4180081781" ref="contactos"/>
+    <file name="contact-form-home.css" crc="3928484658" ref="contact-form-home"/>
+    <file name="nomq_contact-form-home.css" crc="533997296" ref="contact-form-home"/>
+    <file name="plantas-e-capacidades-casamentos.css" crc="324724284" ref="plantas-e-capacidades-casamentos"/>
+    <file name="nomq_plantas-e-capacidades-casamentos.css" crc="108741734" ref="plantas-e-capacidades-casamentos"/>
+    <file name="plantas-e-capacidades-eventos.css" crc="529430159" ref="plantas-e-capacidades-eventos"/>
+    <file name="nomq_plantas-e-capacidades-eventos.css" crc="3857100310" ref="plantas-e-capacidades-eventos"/>
+    <file name="eventos.css" crc="4061163475" ref="eventos"/>
+    <file name="nomq_eventos.css" crc="4061814237" ref="eventos"/>
+    <file name="mensagem-eventos.css" crc="4004167111" ref="mensagem-eventos"/>
+    <file name="nomq_mensagem-eventos.css" crc="100244381" ref="mensagem-eventos"/>
+    <file name="galeria-eventos.css" crc="385583690" ref="galeria-eventos"/>
+    <file name="nomq_galeria-eventos.css" crc="147045984" ref="galeria-eventos"/>
+    <file name="contact-form-casamentos.css" crc="3875436063" ref="contact-form-casamentos"/>
+    <file name="nomq_contact-form-casamentos.css" crc="437044428" ref="contact-form-casamentos"/>
+    <file name="mensagem-home.css" crc="4035622560" ref="mensagem-home"/>
+    <file name="nomq_mensagem-home.css" crc="4046815646" ref="mensagem-home"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="museutils.js" crc="3939489907" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="museconfig.js" crc="128606099" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:casamentos:contactos:eventos:galeria"/>
+    <file name="webpro.js" crc="3856315280" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:casamentos:contactos:eventos:plantas-e-capacidades-casamentos:galeria:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:casamentos:contactos:eventos:plantas-e-capacidades-casamentos:galeria:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:casamentos:contactos:eventos:plantas-e-capacidades-casamentos:galeria:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="require.js" crc="4177726516" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home"/>
+    <file name="form_check.php" crc="4108222811" ref="contactos"/>
+    <file name="form_throttle.php" crc="503802655" ref="contactos"/>
+    <file name="form_process.php" crc="260214869" ref="contactos"/>
+    <file name="form-u4687.php" crc="3946180902" ref="contactos"/>
+    <file name="form-u7449.php" crc="437828646" ref="contact-form-casamentos"/>
+    <file name="form-u8674.php" crc="4127394973" ref="contact-form-eventos"/>
+    <file name="form-u37973.php" crc="51079740" ref="contact-form-home"/>
+  </folder>
+  <folder name="images">
+    <file name="svg-colado-369882x158.svg" crc="249720371" seo="true" ref="index:casamentos:contactos:eventos:galeria:mensagem-contactos:mensagem-casamentos:mensagem-home:mensagem-eventos">
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="mensagem-eventos" alt=""/>
+      <caption webpage="mensagem-eventos" alt=""/>
+      <caption webpage="mensagem-eventos" alt=""/>
+      <caption webpage="casamentos" alt=""/>
+      <caption webpage="casamentos" alt=""/>
+      <caption webpage="casamentos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mensagem-contactos" alt=""/>
+      <caption webpage="mensagem-contactos" alt=""/>
+      <caption webpage="mensagem-contactos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="mensagem-casamentos" alt=""/>
+      <caption webpage="mensagem-casamentos" alt=""/>
+      <caption webpage="mensagem-casamentos" alt=""/>
+      <caption webpage="mensagem-home" alt=""/>
+      <caption webpage="mensagem-home" alt=""/>
+      <caption webpage="mensagem-home" alt=""/>
+    </file>
+    <file name="svg colado 369882x158_poster_.png" crc="4018197555" ref="index"/>
+    <file name="homepage_img3.jpg" crc="133302658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:casamentos:contactos:contact-form-casamentos:eventos:plantas-e-capacidades-casamentos:contact-form-eventos:galeria:mensagem-contactos:galeria-casamentos:galeria-eventos:plantas-e-capacidades-eventos:contact-form-home:mensagem-casamentos:mensagem-home:mensagem-eventos"/>
+    <file name="homepage_img4.jpg" crc="388171478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_img1.jpg" crc="3908404580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:casamentos:contactos:eventos:galeria:galeria-casamentos:galeria-eventos"/>
+    <file name="homepage_img3-crop-u9177.jpg" crc="35880876" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_img4-crop-u9258.jpg" crc="344974392" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_img1-crop-u9862.jpg" crc="270754101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_img3-crop-u91772.jpg" crc="73213294" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_img4-crop-u92582.jpg" crc="363324384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_img1-crop-u98622.jpg" crc="3774328743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="511999-pi4y6f-76-crop-u9426.jpg" crc="387560825" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="img_0489-crop-u9453.jpg" crc="175161415" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="casamentos1.jpg" crc="205850734" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="svg-colado-50602x36.svg" crc="3965415047" seo="true" ref="casamentos:eventos">
+      <caption webpage="casamentos" alt=""/>
+      <caption webpage="casamentos" alt=""/>
+      <caption webpage="casamentos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="svg colado 50602x36_poster_.png" crc="3943314779" ref="casamentos"/>
+    <file name="511999-pi4y6f-76-crop-u94262.jpg" crc="4013352804" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="img_0489-crop-u94532.jpg" crc="292339649" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="casamentos1-crop-u9480.jpg" crc="1891593" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="511999-pi4y6f-76342x228.jpg" crc="3896045214" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="img_0489345x228.jpg" crc="4001884312" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="casamentos1-crop-u94802.jpg" crc="67471343" seo="true" ref="casamentos">
+      <caption webpage="casamentos" alt=""/>
+    </file>
+    <file name="homepage1-crop-u23452.jpg" crc="412301840" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="homepage_img6.jpg" crc="3934494299" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="homepage5.jpg" crc="4031278090" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="conference_and_hollow_square.png" crc="322815247" seo="true" ref="contactos:contact-form-casamentos:contact-form-home">
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+    </file>
+    <file name="schroolroom_or_classroom.png" crc="439908401" seo="true" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+    </file>
+    <file name="plateia.png" crc="3907086534" seo="true" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+    </file>
+    <file name="reception.png" crc="238502714" seo="true" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+    </file>
+    <file name="banquet.png" crc="3836017399" seo="true" ref="contactos:contact-form-casamentos:contact-form-eventos:contact-form-home">
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-home" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contact-form-casamentos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contactos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+      <caption webpage="contact-form-eventos" alt=""/>
+    </file>
+    <file name="homepage1-crop-u234522.jpg" crc="4073545300" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="homepage_img6-crop-u23498.jpg" crc="3878431481" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="homepage5-crop-u23530.jpg" crc="3859209867" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="homepage1-crop-u234523.jpg" crc="4133731521" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="homepage_img6-crop-u234982.jpg" crc="195994904" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="homepage5-crop-u235302.jpg" crc="142365364" seo="true" ref="contactos">
+      <caption webpage="contactos" alt=""/>
+    </file>
+    <file name="eventos2.jpg" crc="3959032704" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="eventos3.jpg" crc="508793940" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_0764-crop-u9995.jpg" crc="3788874096" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="eventos2-crop-u9618.jpg" crc="224849175" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="eventos3-crop-u9672.jpg" crc="355300975" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_0764-crop-u99952.jpg" crc="115269452" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="eventos2-crop-u96182.jpg" crc="3781165892" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="eventos3-crop-u96722.jpg" crc="2369790" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="img_0764-crop-u99953.jpg" crc="8279377" seo="true" ref="eventos">
+      <caption webpage="eventos" alt=""/>
+    </file>
+    <file name="piso-0.png" crc="3903561758" seo="true" ref="plantas-e-capacidades-casamentos:plantas-e-capacidades-eventos">
+      <caption webpage="plantas-e-capacidades-eventos" alt=""/>
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="piso-1.png" crc="417162481" seo="true" ref="plantas-e-capacidades-casamentos:plantas-e-capacidades-eventos">
+      <caption webpage="plantas-e-capacidades-eventos" alt=""/>
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="piso-2.png" crc="253075849" seo="true" ref="plantas-e-capacidades-casamentos:plantas-e-capacidades-eventos">
+      <caption webpage="plantas-e-capacidades-eventos" alt=""/>
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="pergula.png" crc="157421524" seo="true" ref="plantas-e-capacidades-casamentos:plantas-e-capacidades-eventos">
+      <caption webpage="plantas-e-capacidades-eventos" alt=""/>
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="planta-geral.png" crc="3946834062" seo="true" ref="plantas-e-capacidades-casamentos:plantas-e-capacidades-eventos">
+      <caption webpage="plantas-e-capacidades-eventos" alt=""/>
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="piso-0540x674.png" crc="471283268" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="piso-1484x696.png" crc="84216307" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="piso-2494x694.png" crc="3762003874" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="pergula512x658.png" crc="216875980" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="planta-geral534x686.png" crc="4254194708" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="piso-0327x409.png" crc="4202058410" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="piso-1292x420.png" crc="422528925" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="piso-2294x414.png" crc="3895062915" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="pergula340x437.png" crc="3949194243" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="planta-geral332x427.png" crc="3821367440" seo="true" ref="plantas-e-capacidades-casamentos">
+      <caption webpage="plantas-e-capacidades-casamentos" alt=""/>
+    </file>
+    <file name="img_0504.jpg" crc="4075247477" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0506.jpg" crc="361155297" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0601.jpg" crc="4060431687" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0478.jpg" crc="4004075938" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0489.jpg" crc="4075172184" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0579.jpg" crc="4053368934" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0608.jpg" crc="487580956" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0456.jpg" crc="102344312" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0464.jpg" crc="3767390414" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0526.jpg" crc="199279908" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9490.jpg" crc="530941787" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9492.jpg" crc="130581568" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9530.jpg" crc="4025891839" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9536.jpg" crc="516011578" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0756.jpg" crc="176614154" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0757.jpg" crc="72081077" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0759.jpg" crc="3767411026" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0760.jpg" crc="329657934" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0764.jpg" crc="80163176" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9119.jpg" crc="369738571" seo="true" ref="galeria:galeria-casamentos:galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+      <caption webpage="galeria-casamentos" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0504328x246.jpg" crc="167779297" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0506-crop-u14742.jpg" crc="130937811" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0601328x246.jpg" crc="4100788622" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0478-crop-u15463.jpg" crc="4268152500" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0489373x246.jpg" crc="4062687684" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0579328x246.jpg" crc="85301728" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0608-crop-u14910.jpg" crc="136860788" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0456-crop-u15629.jpg" crc="11676275" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0464-crop-u15673.jpg" crc="274692277" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0526341x246.jpg" crc="498362143" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9490-crop-u15757.jpg" crc="4167495164" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9492-crop-u15799.jpg" crc="106837550" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9530-crop-u21522.jpg" crc="243064064" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9536-crop-u21554.jpg" crc="79183156" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0756328x246.jpg" crc="3810531782" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0757328x246.jpg" crc="77852408" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0759328x246.jpg" crc="284654786" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0760328x246.jpg" crc="3826969887" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0764328x293.jpg" crc="92182153" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9119328x246.jpg" crc="406715575" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0504553x415.jpg" crc="491625043" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0506-crop-u14754.jpg" crc="203217372" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0601553x415.jpg" crc="3897257155" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0478-crop-u15477.jpg" crc="315892822" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0489613x406.jpg" crc="190424494" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0579553x415.jpg" crc="39047518" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0608-crop-u14922.jpg" crc="129821411" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0456-crop-u15643.jpg" crc="368719843" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0464-crop-u15685.jpg" crc="3898195861" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0526561x406.jpg" crc="338337294" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9490-crop-u15769.jpg" crc="3987188454" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9492-crop-u15811.jpg" crc="4273947673" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9530366x487.jpg" crc="4259916689" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9536366x487.jpg" crc="226934140" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0756541x406.jpg" crc="3928623369" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0757541x406.jpg" crc="4209507419" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0759541x406.jpg" crc="4181439807" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0760541x406.jpg" crc="518272418" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0764455x406.jpg" crc="486157089" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9119541x406.jpg" crc="309297345" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0504263x197.jpg" crc="3837064720" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0506-crop-u147422.jpg" crc="150407871" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0601263x197.jpg" crc="219880291" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0478-crop-u154632.jpg" crc="4215341529" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0489298x198.jpg" crc="3836757021" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0579263x197.jpg" crc="3800730167" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0608-crop-u149102.jpg" crc="4072939411" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0456-crop-u156292.jpg" crc="347297477" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0464-crop-u156732.jpg" crc="3963348382" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0526273x197.jpg" crc="388428032" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9490-crop-u157572.jpg" crc="3982961693" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9492-crop-u157992.jpg" crc="153519085" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9530-crop-u215222.jpg" crc="3997326862" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9536-crop-u215542.jpg" crc="94381296" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0756263x197.jpg" crc="157671914" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0757263x197.jpg" crc="4057115950" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0759263x197.jpg" crc="4251566422" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0760263x197.jpg" crc="361277803" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0764260x232.jpg" crc="4274430556" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9119263x197.jpg" crc="360787202" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0504306x230.jpg" crc="4059438522" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0506-crop-u147542.jpg" crc="531468998" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0601306x230.jpg" crc="48515799" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0478-crop-u154772.jpg" crc="3955669139" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0489339x225.jpg" crc="3887995263" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0579306x230.jpg" crc="4196047227" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0608-crop-u149222.jpg" crc="38423161" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0456-crop-u156432.jpg" crc="4161043910" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0464-crop-u156852.jpg" crc="4110996664" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0526311x225.jpg" crc="4142829871" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9490-crop-u157692.jpg" crc="3886394840" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9492-crop-u158112.jpg" crc="450673146" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9530202x270.jpg" crc="3847447942" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9536202x270.jpg" crc="406678273" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0756299x225.jpg" crc="294457387" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0757299x225.jpg" crc="315508012" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0759299x225.jpg" crc="3923803708" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0760299x225.jpg" crc="4014271339" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0764252x225.jpg" crc="1591010" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9119299x225.jpg" crc="91694880" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0506-crop-u147423.jpg" crc="150407871" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0478-crop-u154633.jpg" crc="4215341529" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0608-crop-u149103.jpg" crc="4072939411" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0456-crop-u156293.jpg" crc="347297477" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0464-crop-u156733.jpg" crc="3963348382" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9490-crop-u157573.jpg" crc="3982961693" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9492-crop-u157993.jpg" crc="153519085" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9530-crop-u215223.jpg" crc="3997326862" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_9536-crop-u215543.jpg" crc="94381296" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img_0506-crop-u35038.jpg" crc="130937811" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u35066.jpg" crc="4268152500" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u35060.jpg" crc="136860788" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u35048.jpg" crc="11676275" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u35034.jpg" crc="274692277" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u35070.jpg" crc="4200309328" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u35062.jpg" crc="106837550" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9530-crop-u35032.jpg" crc="243064064" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9536-crop-u35040.jpg" crc="79183156" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u35114.jpg" crc="203217372" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u35082.jpg" crc="315892822" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u35104.jpg" crc="129821411" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u35080.jpg" crc="368719843" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u35116.jpg" crc="3898195861" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u35110.jpg" crc="3987188454" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u35096.jpg" crc="4273947673" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u350382.jpg" crc="150407871" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u350662.jpg" crc="4215341529" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u350602.jpg" crc="4072939411" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u350482.jpg" crc="347297477" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u350342.jpg" crc="3963348382" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u350702.jpg" crc="3982961693" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u350622.jpg" crc="153519085" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9530-crop-u350322.jpg" crc="3997326862" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9536-crop-u350402.jpg" crc="94381296" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u351142.jpg" crc="531468998" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u350822.jpg" crc="3955669139" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u351042.jpg" crc="38423161" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u350802.jpg" crc="4161043910" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u351162.jpg" crc="4110996664" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u351102.jpg" crc="3886394840" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u350962.jpg" crc="450673146" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u350383.jpg" crc="150407871" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u350663.jpg" crc="4215341529" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u350603.jpg" crc="4072939411" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u350483.jpg" crc="347297477" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u350343.jpg" crc="3963348382" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u350703.jpg" crc="3982961693" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u350623.jpg" crc="153519085" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9530-crop-u350323.jpg" crc="3997326862" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_9536-crop-u350403.jpg" crc="94381296" seo="true" ref="galeria-casamentos">
+      <caption webpage="galeria-casamentos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u36616.jpg" crc="130937811" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u36592.jpg" crc="4268152500" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u36618.jpg" crc="136860788" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u36612.jpg" crc="11676275" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u36606.jpg" crc="274692277" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u36602.jpg" crc="4200309328" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u36594.jpg" crc="106837550" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9530-crop-u36622.jpg" crc="243064064" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9536-crop-u36624.jpg" crc="79183156" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u36578.jpg" crc="203217372" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u36552.jpg" crc="315892822" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u36568.jpg" crc="129821411" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u36558.jpg" crc="368719843" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u36550.jpg" crc="3898195861" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u36582.jpg" crc="3987188454" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u36576.jpg" crc="4273947673" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u366162.jpg" crc="150407871" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u365922.jpg" crc="4215341529" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u366182.jpg" crc="4072939411" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u366122.jpg" crc="347297477" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u366062.jpg" crc="3963348382" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u366022.jpg" crc="3982961693" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u365942.jpg" crc="153519085" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9530-crop-u366222.jpg" crc="3997326862" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9536-crop-u366242.jpg" crc="94381296" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u365782.jpg" crc="531468998" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u365522.jpg" crc="3955669139" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u365682.jpg" crc="38423161" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u365582.jpg" crc="4161043910" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u365502.jpg" crc="4110996664" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u365822.jpg" crc="3886394840" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u365762.jpg" crc="450673146" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0506-crop-u366163.jpg" crc="150407871" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0478-crop-u365923.jpg" crc="4215341529" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0608-crop-u366183.jpg" crc="4072939411" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0456-crop-u366123.jpg" crc="347297477" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_0464-crop-u366063.jpg" crc="3963348382" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9490-crop-u366023.jpg" crc="3982961693" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9492-crop-u365943.jpg" crc="153519085" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9530-crop-u366223.jpg" crc="3997326862" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+    <file name="img_9536-crop-u366243.jpg" crc="94381296" seo="true" ref="galeria-eventos">
+      <caption webpage="galeria-eventos" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4096406806" seo="true" mt="1582201996301" redirect="true"/>
+  <file name="casamentos.html" crc="167333610" seo="true" mt="1582203146582" redirect="true"/>
+  <file name="contactos.html" crc="272849475" seo="true" mt="1582214456731" redirect="true"/>
+  <file name="contact-form-casamentos.html" crc="366295953" seo="true" mt="1582201742497" redirect="true"/>
+  <file name="eventos.html" crc="3873365968" seo="true" mt="1582203162034" redirect="true"/>
+  <file name="plantas-e-capacidades-casamentos.html" crc="4103664846" seo="true" mt="1562319710931" redirect="true"/>
+  <file name="contact-form-eventos.html" crc="121078706" seo="true" mt="1582201978252" redirect="true"/>
+  <file name="galeria.html" crc="4275630075" seo="true" mt="1582203184450" redirect="true"/>
+  <file name="mensagem-contactos.html" crc="4154308604" seo="true" mt="1562320775709" redirect="true"/>
+  <file name="galeria-casamentos.html" crc="4100331195" seo="true" mt="1562319889976" redirect="true"/>
+  <file name="galeria-eventos.html" crc="4087042922" seo="true" mt="1562324056703" redirect="true"/>
+  <file name="plantas-e-capacidades-eventos.html" crc="3934232154" seo="true" mt="1562319042156" redirect="true"/>
+  <file name="contact-form-home.html" crc="290411001" seo="true" mt="1582201436227" redirect="true"/>
+  <file name="mensagem-casamentos.html" crc="165654098" seo="true" mt="1562320826977" redirect="true"/>
+  <file name="mensagem-home.html" crc="4253978379" seo="true" mt="1562320837534" redirect="true"/>
+  <file name="mensagem-eventos.html" crc="486387019" seo="true" mt="1562320858055" redirect="true"/>
+</manifest>
