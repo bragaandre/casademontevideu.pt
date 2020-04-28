@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Método de solicitação de servidor desconhecido'
 	),
 	'email' => array(
-		'from' => 'andresousabrag@gmail.com',
-		'to' => 'andresousabrag@gmail.com'
+		'from' => 'eventos@casademontevideu.pt',
+		'to' => 'eventos@casademontevideu.pt'
 	),
 	'fields' => array(
 		'custom_U7532' => array(
