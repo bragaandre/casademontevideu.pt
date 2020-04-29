@@ -16,6 +16,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZiggDCTg5EcCc6dboKSEf6svOd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -44,6 +45,7 @@
       <updated>1585327438187</updated>
       <workItem from="1585327440745" duration="825000" />
       <workItem from="1588084867082" duration="120000" />
+      <workItem from="1588153451437" duration="7104000" />
     </task>
     <servers />
   </component>
@@ -51,10 +53,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2160" y="443" key="NewPhpFileDialog" timestamp="1588086382342">
+    <state x="1918" y="178" key="#Notifications" timestamp="1588157897514">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2160" y="443" key="NewPhpFileDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588086382342" />
+    <state x="1918" y="178" key="#Notifications/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588157897514" />
+    <state x="2160" y="443" key="NewPhpFileDialog" timestamp="1588159784849">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2160" y="443" key="NewPhpFileDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1588159784849" />
     <state x="1989" y="225" key="search.everywhere.popup" timestamp="1585327454620">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>

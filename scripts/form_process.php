@@ -154,7 +154,7 @@ function email_form_submission($form) {
 	$to = $form['email']['to'];
 	$subject = $form['subject'];
 	$message = get_email_body($subject, $form['heading'], $form['fields'], $form['resources']);
-	$headers = get_email_headers($to, $form_email);	
+	$headers = get_email_headers($to, $form_email);
 
 	$sent = @mail($to, $subject, $message, $headers);
 	
