@@ -170,7 +170,8 @@ function email_form_submission($form) {
 
 	/*PHPMailer Function test*/
 	$mail = new PHPMailer();
-	$mail->Host = ' smtp.ptempresas.pt';
+	$mail->IsSMTP();
+	$mail->Host = 'smtp.ptempresas.pt';
 	$mail->STMPDebug = 1;
 	$mail->Port = 587; //Connection Port
 	$mail->SMPTAuth = true;
