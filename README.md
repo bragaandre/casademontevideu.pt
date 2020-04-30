@@ -13,3 +13,9 @@ WARNING: Remain the master branch intact!
 @Please use the Branch "version1" to change the project 
  
 
+@About version 2 - Javascript Version
+
+
+Foi testado o SMTPJS, que funcionou dentro do servidor da PT, de notar que funciona sem problemas quando o formaulário não recorre ao servidor da PT para enviar...
+O Bloqueio está certamente nisto. :
+
