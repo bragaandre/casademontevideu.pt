@@ -159,7 +159,6 @@ function email_form_submission($form) {
 
 	$sent = @mail($to, $subject, $message, $headers);
 
-	/*PHP Mailer Final Test*/
 
 	if(!$sent)
 		die(get_form_error_response($form['resources']['failed_to_send_email']));
@@ -316,3 +315,5 @@ function cleanup_message($message) {
 	return $message;
 }
 ?>
+
+

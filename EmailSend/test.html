@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Das is ein Test </title>
+<!--Este tete está operacional -->
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <input type="button" value="Send Email" onclick="sendEmail()">
+    <script>
+        function sendEmail() {
+            Email.send({
+                Host : "smtp.ptempresas.pt",
+                Username : "eventos@casademontevideu.pt",
+                Password : "XXXXXXX",
+                To : 'eventos@casademontevideu.pt',
+                From : "eventos@casademontevideu.pt",
+                Subject : "Test email",
+                Body : "<html><h2>Header</h2><strong>Bold text</strong><br></br><em>Italic</em></html>"
+            }).then(
+                message => alert(message)
+            );
+        }
+    </script>
+</head>
+<body>
+
+</body>
+</html>
