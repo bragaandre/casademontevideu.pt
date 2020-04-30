@@ -12,4 +12,6 @@ WARNING: Remain the master branch intact!
 
 @Please use the Branch "version1" to change the project 
  
+@Please use the Branch "Version2" for the Tests.:
+
 
