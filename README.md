@@ -6,7 +6,7 @@ Website developed by the Design Department of Crowne Plaza Vilamoura.
 
 Client side URL -> http://casademontevideu.pt/;
 
-Colaborators side URL -> In construction;
+Admin side URL -> In construction;
 
 WARNING: Remain the master branch intact!
 
